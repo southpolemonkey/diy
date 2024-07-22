@@ -1,4 +1,13 @@
 baseURL = 'https://diy.rongchenxuan.com/'
 languageCode = 'en-us'
-title = 'Rong DIY Blog'
+title = "A journey in building things and home improvements"
 theme = 'aether'
+
+[params]
+  brand = "Chenxuan DIY"
+  description = "DIY website for Chenxuan Rong"
+  headshotimg = "profile.jpg"
+
+[markup]
+  [markup.highlight]
+    style = "igor"
