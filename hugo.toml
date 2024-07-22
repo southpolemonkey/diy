@@ -1,0 +1,4 @@
+baseURL = 'https://diy.rongchenxuan.com/'
+languageCode = 'en-us'
+title = 'Rong DIY Blog'
+theme = 'aether'
