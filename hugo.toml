@@ -11,3 +11,18 @@ theme = 'aether'
 [markup]
   [markup.highlight]
     style = "igor"
+
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    baseURL = 'https://diy.rongchenxuan.com/'
+    languageName = 'English'
+    title = 'Chenxuan DIY'
+    weight = 2
+  [languages.zh]
+    contentDir = 'content/zh'
+    baseURL = 'https://diy-cn.rongchenxuan.com'
+    languageName = 'Mandarin'
+    title = '我的DIY项目'
+    weight = 1
+
