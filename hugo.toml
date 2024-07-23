@@ -1,6 +1,7 @@
 languageCode = 'en-au'
 title = "Chenxuan DIY"
 theme = 'aether'
+baseURL = 'https://maker.rongchenxuan.com'
 
 [params]
   brand = "Chenxuan DIY"
@@ -11,17 +12,4 @@ theme = 'aether'
   [markup.highlight]
     style = "igor"
 
-[languages]
-  [languages.en]
-    contentDir = 'content/en'
-    baseURL = 'https://diy.rongchenxuan.com/'
-    languageName = 'English'
-    title = 'Chenxuan DIY'
-    weight = 1
-  [languages.zh]
-    contentDir = 'content/zh'
-    baseURL = 'https://maker.rongchenxuan.com'
-    languageName = 'Mandarin'
-    title = '阿戎的DIY生活'
-    weight = 2
 
