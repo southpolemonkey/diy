@@ -10,12 +10,7 @@ displayInList: true
 draft: false
 resources:
 - name: featuredImage
-  src: ""
-  params:
-    description: ""
-    attribution:
-      name: ""
-      link: ""
+  src: "images/banner.jpg"
 ---
 
 

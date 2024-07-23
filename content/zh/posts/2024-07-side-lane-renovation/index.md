@@ -2,7 +2,7 @@
 title: "侧道排水和翻新工程"
 date: 2024-07-23T19:33:44+10:00
 description: ""
-categories: ["景观"]
+categories: ["landscaping"]
 toc: false
 dropCap: true
 displayInMenu: false
@@ -10,12 +10,7 @@ displayInList: true
 draft: false 
 resources:
 - name: featuredImage
-  src: ""
-  params:
-    description: ""
-    attribution:
-      name: ""
-      link: ""
+  src: "images/banner.jpg"
 ---
 
 2022年3月恰逢悉尼难得一遇的大雨季节，搬入新家就发现车库地基处有渗水情况。当时初步排查是因为墙外侧的步道地面高过了车库地基，并且因为邻居地势比我家高，下大雨时候会有水流到这根道上，所以土壤经常吸饱了水。自此以后，这条道就不受待见，一来光照不足常有杂草，二来经常潮湿不太干净。
@@ -50,6 +45,10 @@ resources:
 为了将排水渠连入现有雨水管道，我从Kennards Hire租了一把水泥锯来切割地面，$260一天，Hilti一查还是个高端牌子。租赁公司给了4块电池，每次用两块，接上花园水管就可以切割。
 花了一小时不到把地面切开，挖干净pvc管道旁边的土，发现已有的转接头破裂了。跑了两趟bunnings决定直接换个Y形双通接口，也换了个新的雨水管接口。之后花了一天时间接好了雨水渠到双通的管道。
 
+![Side lane 1](images/side-lane%20-%201.jpeg)
+
+![Side lane 2](images/side-lane%20-%202.jpeg)
+
 ## 路面铺设
 
 期间正好我生日，全家人出去度假玩了四天。
@@ -62,6 +61,10 @@ resources:
 
 总共花了一周的时间琢磨样式，细节，全家人都贡献了自己的想法。
 看到完工的样子还是很有成就感。
+
+![石材](images/side-lane%20-%203.jpeg)
+
+![凿石头](images/banner.jpg)
 
 ## 景观绿化
 
