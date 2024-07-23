@@ -18,11 +18,11 @@ theme = 'aether'
     baseURL = 'https://diy.rongchenxuan.com/'
     languageName = 'English'
     title = 'Chenxuan DIY'
-    weight = 2
+    weight = 1
   [languages.zh]
     contentDir = 'content/zh'
-    baseURL = 'https://diy-cn.rongchenxuan.com'
+    baseURL = 'https://maker.rongchenxuan.com'
     languageName = 'Mandarin'
-    title = '我的DIY项目'
-    weight = 1
+    title = '阿戎的DIY生活'
+    weight = 2
 
