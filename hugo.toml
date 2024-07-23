@@ -1,6 +1,5 @@
-baseURL = 'https://diy.rongchenxuan.com/'
-languageCode = 'en-us'
-title = "A journey in building things and home improvements"
+languageCode = 'en-au'
+title = "Chenxuan DIY"
 theme = 'aether'
 
 [params]
