@@ -1,16 +1,30 @@
-languageCode = 'en-au'
+languageCode = 'zh'
 title = "Chenxuan DIY"
 theme = 'aether'
-baseURL = 'https://maker.rongchenxuan.com/'
+defaultContentLanguage = 'zh'
+
 
 [params]
   brand = "Chenxuan DIY"
   description = "DIY website for Chenxuan Rong"
   headshotimg = "profile.jpg"
-  rssinmenu = true
 
 [markup]
   [markup.highlight]
     style = "igor"
 
+[languages]
+  [languages.en]
+    contentDir = 'content/en'
+    languageName = 'English'
+    title = 'Chenxuan DIY'
+    weight = 1
+    baseURL = "https://diy.rongchenxuan.com/"
+
+  [languages.zh]
+    contentDir = 'content/zh'
+    languageName = '中文'
+    title = '阿戎的DIY生活'
+    weight = 2
+    baseURL = 'https://maker.rongchenxuan.com/'
 
