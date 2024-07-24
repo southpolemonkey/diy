@@ -1,7 +1,7 @@
 languageCode = 'en-au'
 title = "Chenxuan DIY"
 theme = 'aether'
-baseURL = 'https://maker.rongchenxuan.com'
+relativeURLs = true
 
 [params]
   brand = "Chenxuan DIY"
