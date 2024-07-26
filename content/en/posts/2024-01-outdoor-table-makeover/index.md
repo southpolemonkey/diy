@@ -1,6 +1,6 @@
 ---
 title: "Outdoor Table Makeover"
-date: 2024-07-23T00:22:03+10:00
+date: 2024-04-01T00:22:03+10:00
 description: "Renovate a teak outdoor dining set"
 categories: ["woodworking"]
 toc: false

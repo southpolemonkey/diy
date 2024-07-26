@@ -1,6 +1,6 @@
 ---
 title: "室外餐桌翻新"
-date: 2024-07-23T00:22:03+10:00
+date: 2024-04-01T00:22:03+10:00
 description: "室外柚木餐桌椅翻新"
 categories: ["woodworking"]
 toc: false
