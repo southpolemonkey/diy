@@ -10,7 +10,7 @@ displayInList: true
 draft: false 
 resources:
 - name: featuredImage
-  src: "images/header.jpeg"
+  src: "images/decking - 9.jpeg"
 ---
 
 ## 设计
