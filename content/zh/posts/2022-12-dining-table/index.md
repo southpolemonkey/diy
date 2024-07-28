@@ -1,7 +1,7 @@
 ---
 title: "Blackbutt餐桌"
 date: 2022-12-10T00:34:27+10:00
-description: "Blackbutt原木餐桌"
+description: ""
 categories: ["woodworking"]
 dropCap: false
 displayInList: true

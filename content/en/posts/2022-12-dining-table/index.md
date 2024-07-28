@@ -1,7 +1,7 @@
 ---
 title: "Blackbutt Dining Table"
 date: 2022-12-10T00:34:27+10:00
-description: "2.4m long dining table built from blackbutt slab"
+description: ""
 categories: ["woodworking"]
 dropCap: false
 displayInList: true
