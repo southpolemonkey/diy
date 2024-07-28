@@ -4,7 +4,7 @@ date: 2024-04-20T01:02:23+10:00
 description: ""
 categories: ["landscaping","woodworking"]
 toc: false
-dropCap: true
+dropCap: false
 displayInMenu: false
 displayInList: true
 draft: false 

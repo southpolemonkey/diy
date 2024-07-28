@@ -4,7 +4,7 @@ date: 2024-07-23T19:33:44+10:00
 description: ""
 categories: ["landscaping"]
 toc: false
-dropCap: true
+dropCap: false
 displayInMenu: false
 displayInList: true
 draft: false 

@@ -4,6 +4,7 @@ date: 2023-04-09T00:13:00+10:00
 description: "洗衣房台面改造"
 categories: ["woodworking"]
 displayInList: true
+dropCap: false
 draft: false
 resources:
 - name: featuredImage
