@@ -13,5 +13,9 @@ resources:
 ---
 
 
-最早的一个手工项目
-用路边捡来的木条做的画架
+最早的一个手工项目，用路边捡来的木条做的画架。
+
+![image](images/easel%20-%201.jpeg)
+![image](images/easel%20-%202.jpeg)
+![image](images/easel%20-%204.jpeg)
+![image](images/easel%20-%205.jpeg)
