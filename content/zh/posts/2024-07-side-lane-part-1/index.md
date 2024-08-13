@@ -86,4 +86,4 @@ resources:
 
 ## 景观
 
-景观施工在[第二部分](https://maker.rongchenxuan.com/posts/2024-07-side-lane-part-1/)里详述
+景观施工在[第二部分](https://maker.rongchenxuan.com/posts/2024-07-side-lane-part-2/)里详述
