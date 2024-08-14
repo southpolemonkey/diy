@@ -15,19 +15,20 @@ resources:
 
 ## Design
 
-原来的前院是一片贫瘠的草地，疏于打理，又因为错误的堆放材料造成草坪中间坏死了一块，使得这块区域使用率很低。
+The original front yard was a lawn but poorly maintained. Due to incorrect material storage, a section in the middle of the lawn had died, resulting in very low utilization of this area.
 
-最初考虑重新铺草皮，分析下来发现由于周围的树荫和冬天日照不足，养好这块区域很有难度，所以考虑打造一个露台来改善这块区域。露台也可以作为入户门前的迎宾区域，显得更干净大气。
+Initially, we considered re-laying turf. But quickly we realized that due to the surrounding tree shade and insufficient sunlight in winter, maintaining a healthy lawn in this area would be challenging. Therefore, we considered creating a decking to improve this area. The patio could also serve as a welcoming area in front of the entrance, giving a cleaner and more spacious appearance
 
 ## Site prep
 
-开始动工是2023年3月，买了一把夯土的工具平整土地，头脑一热就决定先把草给铲了。不得不说，这活可真累人。带着土的草皮看似不重，等到我塞满了一个绿桶差点都推不动。整理干净草皮，我精确了测量好场地尺寸，在sketchup里面做了个模型看看效果。
+In March 2023. I started ripping off old lawn and used a tamper to level the ground. I must say, this task was truly exhausting. The turf with soil attached seemed light at first, but by the time I had filled a green bin, I could barely move it. After clearing the turf, I accurately measured the site dimensions and created a model in SketchUp to visualize the effect.
 
-设计时候就意识到这个工程有三个难点
+During the design phase, I realized this project had three main challenges:
 
-- 现有两侧台阶落差有100mm，平台的水平面和两侧的衔接有难度
-- 和现有花池弧形区域的收边
-- 平台和土层间距很小，地基方案的实施
+  - The existing steps on both sides had a 100mm height difference, making it difficult to connect the horizontal surface of the platform with the two sides.
+  - Edging the curved area of the existing flower bed.
+  - The small gap between the platform and the soil layer, which complicated the implementation of the foundation plan.
+
 
 ![old](images/old.jpeg)
 ![site_prep](images/decking%20-%204.jpeg)
@@ -37,29 +38,31 @@ resources:
 
 ## Materials
 
-根据模型我预估出材料的数量
+I estimated the materials to be
 
 - 90*45mm H3 Treated pine 90LM
 - Blackbutt 86*19mm 280LM
-- 金属连接件
+- Connectors
 
-我从[Abbey Timber](https://abbeytimber.com.au/)订购了木材
+I ordered materials from [Abbey Timber](https://abbeytimber.com.au/)
 
 ![material](images/decking%20-%208.jpeg)
 
-在研究了几天地基方案后，我衡量了传统挖坑埋桩和新型塑料可调节桩基的优劣。考虑到挖坑大概率会碰到旁边一颗蓝花楹的根系，而且几十个坑很费体力，我觉得用[Tuffblock instant footing](https://www.bunnings.com.au/tuffblock-300-x-300-x-90mm-instant-foundation-system-deck-support_p2410345) 塑料桩基来做地基。材料费上应该比木桩+水泥固定要贵，但从施工上更方便了。
+And for footings, I used [Tuffblock instant footing](https://www.bunnings.com.au/tuffblock-300-x-300-x-90mm-instant-foundation-system-deck-support_p2410345) to save effort from post digging and disruption to the tree roots.
 
 ![tuffblock](images/tuffblock.png)
 
 ## A bit pause
 
-从2023年3月份动土开工框架初步定了走向之后就停滞了，2023年7月回国了两个月。9月回悉尼后一直苦恼于框架调节水平的问题，也迟迟没有开工。说实话第一次自己做这么大的项目在一些节点上有些无从下手。从11月份下旬开始继续推进这个项目，进度缓慢，在调节坡度上很花时间而且很难看到显著成果。
+After initially breaking ground and roughly setting the framework direction in March 2023, the project came to a halt. In July 2023, I returned to my home country for two months. After coming back to Sydney in September, I was constantly troubled by the issue of leveling the framework, and the work remained at a standstill. To be honest, as this was my first time tackling such a large project on my own, I felt stuck on how to proceed at certain points.
+
+From late November, I began to push the project forward again, but progress was slow. Adjusting the slope took a lot of time and it was difficult to see significant results."
 
 ## Framing
 
-整个框架沿长边按中线间隔450mm排好框架，用tuffblock调好高度的样子。调节高度还挺花时间的，用到了不少装窗户用的packer微调，**这一步尽管很枯燥花时间，但直接关系到完成面的平整度，所以一定要确保做到位**
+The entire framework was laid out along the long edge with joists spaced 450mm apart from the center line, using Tuffblocks to adjust the height. Adjusting the height was quite time-consuming, and we used quite a few window packers for fine-tuning. Although this step was tedious and time-consuming, it directly affects the evenness of the finished surface, so it's crucial to ensure it's done properly.
 
-在四周的关键点位上我还是用挖坑埋桩的方式固定，确保了整个结构的抗风能力和稳定性。
+At key points around the perimeter, I still used the method of digging holes and burying posts to secure the structure, ensuring the wind resistance and stability of the entire structure."
 
 ![frame](images/frame%20-%203.jpeg)
 ![frame](images/frame%20-%201.jpeg)
@@ -68,11 +71,11 @@ resources:
 
 ## Board
 
-12月中旬做好了框架之后，原本想新年前完工的计划看着是做不到了。所以和客户（张师傅）商量先把1/3的区域做好，让一部分人先享受起来😁
+After completing the framework in mid-December, it became clear that the original plan to finish before the New Year wouldn't be possible. So, I discussed with the client (wife) about completing 1/3 of the area first, enabling we to start enjoying it 😁
 
-由于要和现有花坛做弧度衔接，每一根面板的角度都是单独测量并切割，很耗时间。我和老戎合作以每五根为一个批次，用木工夹固定，钻孔，固定。
+Due to the need to connect with the existing curved flower bed, each panel's angle had to be measured and cut individually, which was very time-consuming. Dad and I worked together in batches of five boards at a time, using woodworking clamps to secure them, then drilling holes and fixing them in place.
 
-夏天干活的好处是下班了天还亮，抽空固定几根也是进度。
+One advantage of working in summer is that it's still light after work, so we could make progress by fixing a few boards in our spare time.
 
 ![decking](images/decking%20-%209.jpeg)
 ![decking](images/blackbutt%20-%201.jpeg)
@@ -82,8 +85,7 @@ resources:
 
 ## Christmas
 
-圣诞节好兄弟来家里聚餐，也一起参与到了建造中。慢慢推进之中也是享受动手乐趣的过程。
-花坛的弧度也非常完美。
+During Christmas, my mates came over for a meal and also joined me in the construction. Gradually pushing forward with the project was also a process of enjoying the pleasure of hands-on work. The curve edge turned out perfectly."
 
 ![decking](images/decking%20-%2011.jpeg)
 ![decking](images/decking%20-%2012.jpeg)
@@ -94,9 +96,9 @@ resources:
 
 ## Board prep
 
-我用的是blackbutt，属于本地桉树种类的一科，类似的木头里面含有单宁(tannin)，是天然木料里含有的一种物质。不同的木料的含量不同。blackbutt属于含量比较高的木材。新买的木材安装后在自然环境下风吹雨淋会吸取出单宁，如果遇到石材表面会使得石材染色。传统的做法是安装6个月后再上油，为的是使得木料里的单宁物质完全分泌。
+I used Blackbutt, which is a species of local eucalyptus. Similar woods contain tannin, a naturally occurring substance in timber. Different woods have varying levels of tannin content. Blackbutt is among the woods with a higher tannin content. After installation, newly purchased timber exposed to natural elements like wind and rain will release tannin, which can stain stone surfaces if they come into contact. The traditional approach is to apply oil after 6 months of installation, allowing time for the wood to fully secrete its tannin content.
 
-我为了可以再完工后立马上木油保护，就用了[new timber prep](https://www.bunnings.com.au/cabot-s-2l-new-timber-prep-2l_p1520592)来加速单宁的分泌过程。稀释后用工具喷洒在新木料表面，过了几分钟就可以看到深色的类似颜料的物质出现，等过20分钟后用清水洗净。
+To be able to apply wood oil protection immediately after completion, I used New Timber Prep to accelerate the tannin secretion process. After diluting, I sprayed it on the surface of the new timber using a tool. Within a few minutes, you could see dark, pigment-like substances appearing. After 20 minutes, I rinsed it clean with water."
 
 ![leach](images/leach%20-%202.jpeg)
 ![leach](images/leach%20-%201.jpeg)
@@ -114,11 +116,11 @@ resources:
 
 ## Feedback
 
-目前为止做的最大的项目，还好没有成为烂尾项目😁
-这样规模的项目，仅凭一个人要完成确实很有难度，好在有家里人还有朋友的帮忙👍🏻
+This is the largest project I've done so far, and fortunately, it didn't become an abandoned project 😁
+For a project of this scale, it's indeed very challenging for one person to complete alone. Thankfully, I had help from family members and friends 👍🏻
 
-回顾下来有有几点技术在之后的项目里可以改进
+Looking back, there are a few technical points that could be improved in future projects:
 
-- 桩基的选择。我发现用塑料可调节桩基好处是省去挖坑灌水泥的时间，但是要做平塑料底座下的接触面，以及用塑料薄片来微调其实也挺花时间的。如果坑位不多的话可能还是直接挖坑埋桩来的直接。
+- Choice of foundation posts. I found that using adjustable plastic post bases saves time on digging holes and pouring concrete, but leveling the contact surface under the plastic base and using plastic shims for fine adjustments is also quite time-consuming. If there aren't many post locations, it might be more straightforward to directly dig holes and bury posts.
 
-- 场地上材料的存储与管理。中间工期停留的几个月内，应该对材料做好保护工作。
+- On-site storage and management of materials. During the several months when the project was on hold, I should have done a better job of protecting the materials.
