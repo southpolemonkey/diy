@@ -1,5 +1,5 @@
 ---
-title: "我的工具"
+title: "My toolbox"
 date: 2024-07-26T01:58:46+10:00
 description: ""
 categories: ["tools"]
@@ -12,16 +12,14 @@ resources:
   src: "tool - 1.jpeg"
 ---
 
-干diy也有快四个年头了，工具慢慢积累了不少，在这里系统的整理下自己都有哪些工具。
-
 ![tool](./tool%20-%202.jpeg)
 
 ![mind](./mind.jpg)
 
-## 工具的选择
+## Selection of tool
 
-## 工具的管理
+## Organisation 
 
-## 工具的保养
+## Maintenance 
 
-比起工具，技术更重要
+What I learnt after these projects is: **Skill is way more important than tools**

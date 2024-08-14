@@ -13,77 +13,75 @@ resources:
   src: "images/side-lane - 1.jpeg"
 ---
 
-侧道的翻新是从2022年入住之后就一直想开始的工程。
+Side land has been on my list since 2022.
 
-我将安装以下的分项目来写整个工程
+I break down the project into follownig sub-tasks
+- Lower the soil height
+- Retaining wall
+- Install surface drainage and connect to stormwater system
+- Foundation waterproofing
+- Paving
+- Planting
 
-- 降土
-- 安装挡土墙
-- 增加表面排水渠，接入现有雨水系统
-- 墙基防水
-- 路面铺设
-- 景观绿化
 
-## 场地初期情况
+## Site condition
 
-2022年3月恰逢悉尼难得一遇的大雨季节，搬入新家就发现车库地基处有渗水情况。当时初步排查是因为墙外侧的步道地面高过了车库地基，并且因为邻居地势比我家高，下大雨时候会有水流到这根道上，所以土壤经常吸饱了水。自此以后，这条道就不受待见，一来光照不足常有杂草，二来经常潮湿不太干净。
+"In March 2022, coinciding with Sydney's rare rainy season, we discovered water seepage in the garage foundation shortly after moving into our new home. Initial investigation revealed that the pathway outside the wall was higher than the garage foundation, and because our neighbor's property was at a higher elevation than ours, water would flow onto this path during heavy rains, causing the soil to frequently become saturated.
 
-2023年3月升级了热水器，讲原本的水桶式更换成即热式热水器，腾出了空间，为之后走机械设备做好了准备。
+From then on, this pathway became undesirable. Firstly, due to insufficient sunlight, weeds often grew there. Secondly, it was frequently damp and not very clean.
+
+In March 2023, we upgraded our water heater, replacing the original tank-type with an instantaneous water heater to free up the limited space in this lane.
 
 ![原始状况](images/side-lane%20-%205.jpeg)
 
-## 降土
+## Remove soil
 
-2023年10月在前院浇筑水泥地面的同时让挖掘机降下了侧道100mm的土，总计运走了3吨的土，将侧道的路面高度降至和车库地面齐平，这解决了地基被埋的问题。下一步要做的就是增加排水。
+In October 2023, while pouring concrete in the front yard, we had an excavator lower the side path by 100mm, removing a total of 3 tons of soil. This brought the level of the side path down to be even with the garage floor, solving the problem of the buried foundation. The next step was to improve drainage.
 
-之后忙于露台的搭建就没有继续侧道的翻新，暴露的泥土过了几个月又长满了杂草。2024年6月丈人来家里的时候人工挖出一部分土，我们才开始正式计划侧道的翻新。
-
+After that, we were busy with building the decking and didn't continue with the renovation of the side path. The exposed soil was again overgrown with weeds after a few months. In June 2024, when my father-in-law came to visit, he manually dug out some of the soil, which prompted us to formally plan the renovation of the side path."
 
 ![降土](images/side-lane%20-%206.jpeg)
 ![降土](images/side-lane%20-%207.jpeg)
 
 
 
-### 人工挖掘
+### Hand digging
 
-在挖掘机作业的基础上，因为担心地下有管道所以选择了手工挖掘。在一处地方挖下100mm的过程中碰到多处沙岩石，且以黏土为土壤主要成分，挖掘过程中两人合作用撬棍清除岩石，将黏土运至另一侧的空地。在继续挖掘的过程中，我们发现一段篱笆墙的底部有很大空隙，这也许是水流过来的原因之一。我们考虑有必要增设挡土墙来改善这一问题
+After the excavator's work, we chose to manual digging due to the potentials of disruption to underground services. While digging down 100mm in one area, we encountered several sandstone rocks, and the soil was primarily composed of clay. During the excavation process, we used crowbars to remove the rocks and transported the clay to an empty space on the other side.
 
+As we continued digging, we discovered a large gap at the bottom of a section of the fence. This might be one of the reasons for water flow. We considered it necessary to add a retaining wall to address this issue."
 
+### Reroute the pipe 
 
-### 自来水管改道
-
-在挖掘过程中，我们发现了自来水进水管，在土层降低之后管道上方的土壤已经很少，为了避免之后铺砖和今后走机械对管道造成的损坏风险，我们决定将这段水管改至墙上，以绝后患。
+During the excavation process, we discovered the main water supply pipe. After lowering the soil level, there was very little soil left above the pipe. To avoid the risk of damage to the pipe from future paving and potential machinery use, we decided to relocate this section of the water pipe to the wall, eliminating future concerns.
 
 ![watu](images/watu%20-%201.jpeg)
 ![Side lane 2](images/side-lane%20-%202.jpeg)
 
-## 挡土墙
+## Retaining walls
 
-我和老张在衡量几种方案后决定用铁柱和木头的材料以降低造价。
-拉好线，定好高度开始挖坑。坑的深度是350mm，墙高400mm。
+After considering several options of retaining wall solution, we decided to use steel post and treated pine to construct the wall as it's the most cost-effective solution.
+
 ![wall](images/retaining-wall%20-%201.jpeg)
 ![wall](images/retaining-wall%20-%202.jpeg)
 ![Side lane 1](images/side-lane%20-%201.jpeg)
 
-## 增设排水渠
+## Add drainage
 
-排水渠的坡度按1：100施工，这条步道两头已有现有的铺砖路面，11米的长度60mm落差，自然坡度不够。
-按比例挖好沟下排水渠。
-为了将排水渠连入现有雨水管道，我从Kennards Hire租了一把水泥锯来切割地面，$260一天，Hilti一查还是个高端牌子。租赁公司给了4块电池，每次用两块，接上花园水管就可以切割。
-花了一小时不到把地面切开，挖干净pvc管道旁边的土，发现已有的转接头破裂了。跑了两趟bunnings决定直接换个Y形双通接口，也换了个新的雨水管接口。之后花了一天时间接好了雨水渠到双通的管道。
+The drainage channel was constructed with a slope of 1:100. With existing paved surfaces at both ends of this 11-meter long path, the natural 60mm drop was insufficient for proper drainage. We dug the channel for the drainage pipe according to the required ratio.
 
+To connect the drainage pipe to the existing stormwater system, I rented a concrete saw from Kennards Hire for $260 per day. A quick check revealed that Hilti is actually a high-end brand. The rental company provided four batteries, using two at a time, and with a garden hose connected, we were ready to cut. It took less than an hour to cut open the ground. After digging out the soil around the PVC pipe, we discovered that the existing adapter was cracked. I replaced it with a Y-shaped double connector and also the stormwater pipe connection. It then took a day to connect the drainage pipe to the double connector.
 
 ![drainage](images/drainage%20-%201.jpeg)
 ![drainage](images/drainage%20-%202.jpeg)
 ![drainage](images/drainage%20-%203.jpeg)
 
-## 墙基防水
+## Waterproof foundation
 
-在晒了几天后把地基刷了三层防水涂料
 
 ![waterproof](images/waterproof%20-%201.jpeg)
 ![waterproof](images/waterproof%20-%202.jpeg)
 
-## 景观
+## Paving
 
-景观施工在[第二部分](https://diy.rongchenxuan.com/posts/2024-07-side-lane-part-2/)里详述
+More details on paving in [second part](https://diy.rongchenxuan.com/posts/2024-07-side-lane-part-2/)

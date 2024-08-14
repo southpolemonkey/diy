@@ -1,5 +1,5 @@
 ---
-title: "Pallet花架"
+title: "Pallet raised garden bed"
 date: 2020-12-01T12:38:48+10:00
 description: ""
 categories: ["garden"]
@@ -11,4 +11,9 @@ resources:
 ---
 
 
-用回收的货架木板制作的花架
+A raised garden bed built out of pallet.
+
+![image](images/garden-bed%20-%203.jpeg)
+![image](images/garden-bed%20-%202.jpeg)
+![image](images/garden-bed%20-%205.jpeg)
+![image](images/garden-bed%20-%204.jpeg)

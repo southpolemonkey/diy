@@ -1,5 +1,5 @@
 ---
-title: "前院露台"
+title: "Decking"
 date: 2024-04-20T01:02:23+10:00
 description: ""
 categories: ["landscaping","woodworking"]
@@ -13,13 +13,13 @@ resources:
   src: "images/decking - 9.jpeg"
 ---
 
-## 设计
+## Design
 
 原来的前院是一片贫瘠的草地，疏于打理，又因为错误的堆放材料造成草坪中间坏死了一块，使得这块区域使用率很低。
 
 最初考虑重新铺草皮，分析下来发现由于周围的树荫和冬天日照不足，养好这块区域很有难度，所以考虑打造一个露台来改善这块区域。露台也可以作为入户门前的迎宾区域，显得更干净大气。
 
-## 场地准备
+## Site prep
 
 开始动工是2023年3月，买了一把夯土的工具平整土地，头脑一热就决定先把草给铲了。不得不说，这活可真累人。带着土的草皮看似不重，等到我塞满了一个绿桶差点都推不动。整理干净草皮，我精确了测量好场地尺寸，在sketchup里面做了个模型看看效果。
 
@@ -35,7 +35,7 @@ resources:
 ![su](images/decking%20-%206.jpeg)
 ![su](images/decking%20-%2017.jpeg)
 
-## 采购
+## Materials
 
 根据模型我预估出材料的数量
 
@@ -51,11 +51,11 @@ resources:
 
 ![tuffblock](images/tuffblock.png)
 
-## 项目暂停
+## A bit pause
 
 从2023年3月份动土开工框架初步定了走向之后就停滞了，2023年7月回国了两个月。9月回悉尼后一直苦恼于框架调节水平的问题，也迟迟没有开工。说实话第一次自己做这么大的项目在一些节点上有些无从下手。从11月份下旬开始继续推进这个项目，进度缓慢，在调节坡度上很花时间而且很难看到显著成果。
 
-## 框架
+## Framing
 
 整个框架沿长边按中线间隔450mm排好框架，用tuffblock调好高度的样子。调节高度还挺花时间的，用到了不少装窗户用的packer微调，**这一步尽管很枯燥花时间，但直接关系到完成面的平整度，所以一定要确保做到位**
 
@@ -66,7 +66,7 @@ resources:
 ![frame](images/frame%20-%202.jpeg)
 
 
-## 面板铺设
+## Board
 
 12月中旬做好了框架之后，原本想新年前完工的计划看着是做不到了。所以和客户（张师傅）商量先把1/3的区域做好，让一部分人先享受起来😁
 
@@ -80,7 +80,7 @@ resources:
 ![decking](images/blackbutt%20-%203.jpeg)
 ![sunset](images/sunset%20-%201.jpeg)
 
-## 圣诞节
+## Christmas
 
 圣诞节好兄弟来家里聚餐，也一起参与到了建造中。慢慢推进之中也是享受动手乐趣的过程。
 花坛的弧度也非常完美。
@@ -92,7 +92,7 @@ resources:
 ![curve](images/curve%20-%202.jpeg)
 
 
-## 木料的清洗
+## Board prep
 
 我用的是blackbutt，属于本地桉树种类的一科，类似的木头里面含有单宁(tannin)，是天然木料里含有的一种物质。不同的木料的含量不同。blackbutt属于含量比较高的木材。新买的木材安装后在自然环境下风吹雨淋会吸取出单宁，如果遇到石材表面会使得石材染色。传统的做法是安装6个月后再上油，为的是使得木料里的单宁物质完全分泌。
 
@@ -101,18 +101,18 @@ resources:
 ![leach](images/leach%20-%202.jpeg)
 ![leach](images/leach%20-%201.jpeg)
 
-## 板凳
+## Built-in bench
 
 ![bench](images/bench%20-%201.jpeg)
 ![bench](images/bench%20-%207.jpeg)
 
-## 成品
+## Finish
 ![bench](images/bench%20-%203.jpeg)
 ![bench](images/bench%20-%208.jpeg)
 ![bench](images/bench%20-%202.jpeg)
 
 
-## 回顾
+## Feedback
 
 目前为止做的最大的项目，还好没有成为烂尾项目😁
 这样规模的项目，仅凭一个人要完成确实很有难度，好在有家里人还有朋友的帮忙👍🏻

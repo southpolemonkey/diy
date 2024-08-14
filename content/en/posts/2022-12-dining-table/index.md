@@ -11,18 +11,18 @@ resources:
   src: "images/blackbutt - 9.jpeg"
 ---
 
-## 采购
+## Materials
 
 
 ![images](images/blackbutt%20-%202.jpeg)
 ![images](images/blackbutt%20-%203.jpeg)
 
-## 制作中
+## Build
 
 ![images](images/blackbutt%20-%204.jpeg)
 ![images](images/blackbutt%20-%205.jpeg)
 ![images](images/blackbutt%20-%206.jpeg)
 
-## 完工
+## Result
 
 ![images](images/blackbutt%20-%2010.jpeg)
